@@ -14,3 +14,4 @@ function freeze_window()
 end
 
 mp.add_key_binding('KP5', 'freeze_window', freeze_window)
+mp.add_key_binding('Shift+Y', 'freeze_window', freeze_window)
